@@ -1,0 +1,7 @@
+{
+    "apiUrl": "https://cplustutorialnodeapi.herokuapp.com/",
+    "mainFileName": "appData",
+    "programsPart": "programs",
+    "conceptsPart": "concepts",
+    "updateData": "updateData"
+}
