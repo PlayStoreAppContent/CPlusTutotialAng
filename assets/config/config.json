@@ -3,5 +3,6 @@
     "mainFileName": "appData",
     "programsPart": "programs",
     "conceptsPart": "concepts",
-    "updateData": "updateData"
+    "updateData": "updateData",
+    "gitApiUrl":"https://raw.githubusercontent.com/PlayStoreAppContent/cplustutorialnodeapi/master/assests/appData.json"
 }
